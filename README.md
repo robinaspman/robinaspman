@@ -8,12 +8,10 @@ and what I try to create/experiment on my own while searching tons of pages on S
 I develop my apps with Android Studio using ideavim. I started with Javascript, HTML, CSS, React and Node but decided on
 the language Java, Kotlin and Jetpack Compose. Mobile development became my focus of interest. I've also got an interest in Ethical Hacking; Python and Kali Linux.
 
-Click on this link to go to my [Linkedin](https://www.linkedin.com/in/robinaspman/)
-
 <!-- Social badges section -->
 <!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
 <!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/robinaspman/">
     <img alt="followers" title="Connect wth me!" src="https://custom-icon-badges.demolab.com/badge/-Linkedin-blue?style=for-the-badge&logo=workflow&logoColor=white"/></a>
 </p>
