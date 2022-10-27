@@ -1,6 +1,6 @@
 # 😎‍💻 Robin Aspman
 
-**'Android Developer (Security Enthusiast/Problem Solver)'
+**`Android Developer (Security Enthusiast/Problem Solver)`
 
 I'm a self-taught junior Android Developer with large interest in security. My coding projects are built around course material, Youtube
 and what I try to create/experiment on my own while searching tons of pages on Stack Overflow. 🤓 
