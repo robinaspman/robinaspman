@@ -14,8 +14,8 @@ Click on this link to go to my [Linkedin](https://www.linkedin.com/in/robinaspma
 <!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
 <!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
 <p align="left">
-  <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/DenverCoder1?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+  <a href="https://github.com/denvercoder1?tab=followers">
+    <img alt="linkedin" title="linkedin" src="https://www.linkedin.com/in/robinaspman/"/></a>
 </p>
 
 ---
