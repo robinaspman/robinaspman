@@ -1,6 +1,6 @@
 # 😎‍💻 Robin Aspman
 
-**`Android Developer (Security Enthusiast/Problem Solver)`
+`Android Developer (Security Enthusiast/Problem Solver)`
 
 I'm a self-taught junior Android Developer with large interest in security. My coding projects are built around course material, Youtube
 and what I try to create/experiment on my own while searching tons of pages on Stack Overflow. 🤓 
@@ -8,7 +8,7 @@ and what I try to create/experiment on my own while searching tons of pages on S
 I develop my apps with Android Studio using ideavim. I started with Javascript, HTML, CSS, React and Node but decided on
 the language Java, Kotlin and Jetpack Compose. Mobile development became my focus of interest. I've also got an interest in Ethical Hacking; Python and Kali Linux.
 
-Click on this link to go to my [Linkedin][https://www.linkedin.com/in/robinaspman/]
+Click on this link to go to my [Linkedin](https://www.linkedin.com/in/robinaspman/)
 
 ---
 
