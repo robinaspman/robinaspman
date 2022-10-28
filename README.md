@@ -35,7 +35,6 @@ the language Java, Kotlin and Jetpack Compose. Mobile development became my focu
 
 <br>
 <br>
-#
 
 ### 📈 Stats
 
