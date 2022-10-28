@@ -8,7 +8,6 @@ and what I try to create/experiment on my own while searching tons of pages on S
 I develop my apps with Android Studio using ideavim. I started with Javascript, HTML, CSS, React and Node but decided on
 the language Java, Kotlin and Jetpack Compose. Mobile development became my focus of interest. I've also got an interest in Ethical Hacking; Python and Kali Linux.
 
-<br>
 <!-- Social badges section -->
 <!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
 <!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
