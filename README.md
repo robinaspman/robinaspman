@@ -14,13 +14,12 @@ the language Java, Kotlin and Jetpack Compose. Mobile development became my focu
 <!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
 <p align="left">
   <a href="https://www.linkedin.com/in/robinaspman/">
-    <img alt="followers" title="Connect wth me!" src="https://custom-icon-badges.demolab.com/badge/-Linkedin-blue?style=for-the-badge&logo=workflow&logoColor=white"/>
-</a>
+    <img alt="followers" title="Connect wth me!" src="https://custom-icon-badges.demolab.com/badge/-Linkedin-blue?style=for-the-badge&logo=workflow&logoColor=white"/></a>
 </p>
 
 ---
 
-### 🧰 Languagues and Tools
+### 🧰 Languages and Tools
 
 
 <img align="left" alt="Java" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
