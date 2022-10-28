@@ -39,8 +39,8 @@ the language Java, Kotlin and Jetpack Compose. Mobile development became my focu
 
 ### 📈 Stats
 
-<img align="left" width="30%" src="https://github-readme-stats.vercel.app/api?username=robinaspman&show_icons=true&theme=default" />
-<img align="left" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robinaspman&layout=compact" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=robinaspman&show_icons=true&theme=default" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robinaspman&layout=compact" />
 
 #
 
