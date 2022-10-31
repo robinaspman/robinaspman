@@ -16,9 +16,9 @@ the language Java, Kotlin and Jetpack Compose. Mobile development became my focu
   <a href="https://www.linkedin.com/in/robinaspman/">
     <img alt="Linkedin" title="Connect with me!" src="https://custom-icon-badges.demolab.com/badge/-Linkedin-blue?style=for-the-badge&logo=workflow&logoColor=white"/></a>
   <a href="https://www.udemy.com/user/robin-aspman/">
-    <img alt="Udemy" title="My Udemy profile!" src="https://custom-icon-badges.demolab.com/badge/-Udemy%20Profile-purple?style=for-the-badge&logo=repo-template&logoColor=white"/></a>
+    <img alt="Udemy" title="My Udemy profile!" src="https://custom-icon-badges.demolab.com/badge/-Udemy-purple?style=for-the-badge&logo=repo-template&logoColor=white"/></a>
   <a href="https://replit.com/@robinaspman">
-    <img alt="Repl" title="My Repl profile!" src="https://custom-icon-badges.demolab.com/badge/-Repl%20Profile-darkblue?style=for-the-badge&logo=repo-template&logoColor=white"/></a>
+    <img alt="Repl" title="My Repl profile!" src="https://custom-icon-badges.demolab.com/badge/-Repl-darkblue?style=for-the-badge&logo=repo-template&logoColor=white"/></a>
 </p>
 
 ---
