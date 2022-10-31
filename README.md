@@ -14,7 +14,9 @@ the language Java, Kotlin and Jetpack Compose. Mobile development became my focu
 <!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
 <p align="left">
   <a href="https://www.linkedin.com/in/robinaspman/">
-    <img alt="followers" title="Connect wth me!" src="https://custom-icon-badges.demolab.com/badge/-Linkedin-blue?style=for-the-badge&logo=workflow&logoColor=white"/></a>
+    <img alt="Linkedin" title="Connect wth me!" src="https://custom-icon-badges.demolab.com/badge/-Linkedin-blue?style=for-the-badge&logo=workflow&logoColor=white"/></a>
+  <a href="https://www.udemy.com/user/robin-aspman/">
+    <img alt="Udemy" title="Find me on Udemy!" src="https://custom-icon-badges.demolab.com/badge/-Udemy-purple?style=for-the-badge&logo=workflow&logoColor=white"/></a>
 </p>
 
 ---
