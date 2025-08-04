@@ -29,6 +29,7 @@ Most of my DevOps and automation work is for private clients and under NDA, so m
 
 That said, I publish reusable templates, internal tools, and experimental builds here when possible. If you'd like to see something specific — feel free to reach out.
 
+---
 
 ### 🧰 Languages and Tools
 
