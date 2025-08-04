@@ -6,7 +6,7 @@ I'm a self-taught AI & Automation Consultant with a strong focus on security.
 
 I specialize in AI-driven automation, leveraging scripting and workflow optimization to enhance efficiency. My journey started with JavaScript, HTML, CSS, React, and Node, but I later transitioned to Python, Kotlin, and now fully AI-powered solutions. 
 
-I initially built systems for small companies or family-run businesses — and grew into building robust backend automation for early-stage teams and founders globally.
+I initially built systems for small companies and family-run businesses (including freelance support for GPTSpecialisten, a family-owned project) — and grew into building robust backend automation for early-stage teams and founders globally.
 
 Security remains a key area of interest, with a focus on Python, ChatGPT and AI Agent automation.
 
