@@ -23,6 +23,13 @@ Security remains a key area of interest, with a focus on Python, ChatGPT and AI 
 
 ---
 
+### 🧠 For Clients Visiting from Upwork
+
+Most of my DevOps and automation work is for private clients and under NDA, so my GitHub activity might not reflect all the projects I’ve completed.
+
+That said, I publish reusable templates, internal tools, and experimental builds here when possible. If you'd like to see something specific — feel free to reach out.
+
+
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Java" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
