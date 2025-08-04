@@ -1,6 +1,6 @@
 # Robin Aspman
 
-`AI & Automation Consultant`
+`AI & Automation Consultant Specializing in Devops and Infrastructure`
 
 I'm a self-taught AI & Automation Consultant with a strong focus on security.
 
