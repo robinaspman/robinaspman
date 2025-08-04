@@ -17,11 +17,11 @@ Security remains a key area of interest, with a focus on Python, ChatGPT and AI 
 <!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
 <!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
 <p align="left">
-  <a href="https://www.linkedin.com/in/robinaspman/">
+  <a href="https://www.linkedin.com/in/robinaspman/" target="_blank">
     <img alt="Linkedin" title="Connect with me!" src="https://custom-icon-badges.demolab.com/badge/-Linkedin-blue?style=for-the-badge&logo=workflow&logoColor=white"/></a>
-  <a href="https://www.udemy.com/user/robin-aspman/">
+  <a href="https://www.udemy.com/user/robin-aspman/" target="_blank">
     <img alt="Udemy" title="My Udemy profile!" src="https://custom-icon-badges.demolab.com/badge/-Udemy-purple?style=for-the-badge&logo=repo-template&logoColor=white"/></a>
-  <a href="https://replit.com/@robinaspman">
+  <a href="https://replit.com/@robinaspman" target="_blank">
     <img alt="Repl" title="My Repl profile!" src="https://custom-icon-badges.demolab.com/badge/-Repl-darkblue?style=for-the-badge&logo=repo-template&logoColor=white"/></a>
 </p>
 
